@@ -1,0 +1,41 @@
+{
+    "name": "homepgflowers web PWA",
+    "short_name": "homepgflowers_webby_pwa",
+    "icons": [
+        {
+            "src": "images\/userappwpadminme_wagme_img128.png",
+            "sizes": "128x128",
+            "type": "image\/png"
+        },
+        {
+            "src": "images\/userappwpadminme_wagme_img144.png",
+            "sizes": "144x144",
+            "type": "image\/png"
+        },
+        {
+            "src": "images\/userappwpadminme_wagme_img152.png",
+            "sizes": "152x152",
+            "type": "image\/png"
+        },
+        {
+            "src": "images\/userappwpadminme_wagme_img192.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        },
+        {
+            "src": "images\/userappwpadminme_wagme_img256.png",
+            "sizes": "256x256",
+            "type": "image\/png"
+        },
+        {
+            "src": "images\/userappwpadminme_wagme_img512.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "lang": "en-US",
+    "start_url": "http:\/\/localhost\/wp\/cards\/",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
